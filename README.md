@@ -54,11 +54,13 @@ tasky/
    ```bash
    git clone https://github.com/chinky29/tasky.git
    cd tasky
+   
    ```
 
 2. **Open in browser:**
    ```bash
    open index.html
+   deployed link:https://chinky29.github.io/TO-DO-LIST/
    # or just double-click index.html
    ```
 
