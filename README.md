@@ -60,7 +60,7 @@ tasky/
 2. **Open in browser:**
    ```bash
    open index.html
-   deployed link:https://chinky29.github.io/TO-DO-LIST/
+   deployed link:https://chinky29.github.io/Tasky-Your_Daily_Focus_Organized/
    # or just double-click index.html
    ```
 
